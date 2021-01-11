@@ -1,4 +1,4 @@
-# Useful
+# Useful 
 [note]: gets notescript
 
 [return]: returns the sum of two different things. ex: "[note] > refresed: true | [return] > "https://example.com": true"
@@ -12,3 +12,4 @@
 [division]: allows you to divide any equation
 
 [multiplication]: allows you to multiply any equation
+ 

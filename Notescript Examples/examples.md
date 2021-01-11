@@ -1,17 +1,4 @@
-# Webhooks
-````
-[note]
-| [url]: "https://webhook.site/bc844274-fad8-4891-a9cb-24d5166c02e0"
-| | (retrieve "url" put into "channel")  ^
-channel id = "id" | url     =     "line 5, character 38"
-````
-# VPN Enabling
-````
-[note]
-- available = not used | not used = (*not-available*)
-[randomize] 15 + h263, 36gd + [alphabet] | only if: "available"
-- then: say [h1] = your "password" is: + 15 + [custom]
-````
+
 # NoteScript Other-Languages
 ````
 ["language"]

@@ -51,3 +51,5 @@
     <canvas id="canvas" width="240" height="320"> </canvas>
 </body>
 </html> [html]
+````
+this is for html. you can change the language by finding the code of the camera enablng. then change the.. ["language"] 

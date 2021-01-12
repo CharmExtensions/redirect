@@ -1,10 +1,3 @@
-
-# NoteScript Other-Languages
-````
-["language"]
-code inside here
-["language"]
-````
 # Camera Enabling
 ````
 [camera] = |[html]

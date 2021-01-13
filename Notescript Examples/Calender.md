@@ -8,3 +8,4 @@ calender == array |
 
 list: calender > array / list "date" | google-search | answer=2 //returns the second answer.
 ````
+this script is on of the most advanced scripts, other than the php-like script.
